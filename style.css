@@ -41,7 +41,7 @@ header {
 .btn{
     outline: none;
     box-shadow: none;
-    background: blue;
+    background: #25DAC5;
     color: #fff;
     border: 1px solid rgb(146, 142, 142);
     padding: 5px 10px;
@@ -68,4 +68,56 @@ header {
 .eli li a {
     text-decoration: none;
     color: blue;
+}
+
+.hero-section {
+    text-align: center;
+}
+
+.hero-section h1 {
+     color: #1E0E62;
+     font-size: 50px;
+}
+.hero-section p {
+    color: rgb(199, 194, 194);
+    font-size: 15px;
+}
+
+form {
+    padding-bottom: 30px;
+}
+
+
+.hero-btn {
+    outline: none;
+    box-shadow: none;
+    background: #22cea3;
+    color: #fff;
+    border: 1px solid rgb(146, 142, 142);
+    padding: 10px 30px;
+    border-radius: 25px; 
+    margin-top: 30px;
+}
+
+
+small {
+    color: #22cea3;
+}
+.design-section h2 {
+    text-align: center;
+    color: #1E0E62;
+    background: #fff;
+    padding: 40px;
+    padding-bottom: 20px;
+    
+}
+.design-section {
+    color: rgb(199, 194, 194);
+    font-size: 18px;
+    background: #fff;
+    text-align: center;
+    
+}
+.design-section p {
+    font-size: 15px;
 }
